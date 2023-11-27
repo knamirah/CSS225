@@ -6,6 +6,8 @@ def start():
     print("chapter 5 into")
 
     print("I care about you deeply.")
+    #if festivalwithsarah == True:
+    #    print("I'm so glad you went to the festival with me")
     if MainGame.relationship == 12:
         print("You marry Sarah")
     elif 5 < MainGame.relationship < 11:
